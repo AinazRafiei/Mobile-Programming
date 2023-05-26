@@ -1,0 +1,15 @@
+Hi 
+I am Ainaz Rafiei.
+Welcome to my introduction app.
+
+Education
+I am a computer engineering student at Sharif University of Technology, one of the top universities in Iran. I enrolled in 2019 and I am expected to graduate in 2023. I have a solid foundation in mathematics and physics, which I obtained from my high school education at the National Organization for Development of Exceptional Talents (Sampad).
+
+Teaching Assistant
+I have also participated in various academic activities as a teaching assistant for several courses, such as Design Compiler, Machine Learning in Bioinformatics, Probability and Statistics, Data Structure and Algorithm, and Linear Algebra. I have assisted professors and students with lectures, assignments, exams, and projects. I have also gained practical experience as a technical trainee at Asr Gooyesh Pardaz, a company that offers natural language processing solutions.
+
+Interests
+My main interests are machine learning, deep learning, computer vision, and generative models. I have worked on projects such as object skeleton detection with knowledge distillation, quantization of YOLO V5X and DDRNET models in Openvino, and data analysis and visualization with Python libraries and tools. I am skilled in programming languages such as Python, Java, and Matlab. I am also knowledgeable about image processing and frameworks such as PyTorch and TensorFlow.
+
+Skills
+I am fluent in English and have limited working proficiency in German and Turkish. I am active on LinkedIn, where I post my views and thoughts on various topics related to artificial intelligence, data science, and technology. I am open-minded and inventive, and I like to solve problems with patience and persistence. I am always keen to learn new things and enhance my skills.
